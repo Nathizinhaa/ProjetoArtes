@@ -1,0 +1,99 @@
+.sobrenos{
+    background-color: lightgray;
+}
+
+.fotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nomes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.logo{
+    margin-left: 44%;
+}
+
+.nome1{
+    color: white;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.nome1 p {
+    background-color: black;
+    padding: 4%;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+
+.nome2{
+    color: white;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nome2 p {
+    background-color: black;
+    padding: 4%;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+
+.nome3{
+    color: white;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nome3 p {
+    background-color: black;
+    padding: 4%;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+
+.nome4{
+    color: white;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nome4 p {
+    background-color: black;
+    padding: 4%;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+
+.nome5{
+    color: white;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nome5 p {
+    background-color: black;
+    padding: 4%;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+
+.nome6{
+    color: white;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nome6 p {
+    background-color: black;
+    padding: 4%;
+    margin-top: 4%;
+    border-radius: 4px;
+}
